@@ -6,3 +6,6 @@ list = values.split(",")
 
 #convert the list 
 tuple = tuple(list)
+
+#print the list
+print("list : ", list)
